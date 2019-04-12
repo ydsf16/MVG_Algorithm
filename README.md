@@ -3,7 +3,7 @@
 
 Eight points method for Fundamental Matrix solving
 
-Eight points method Essential Matrix solving
+Eight points method for Essential Matrix solving
 
 Four points method for Homography Matrix solving
 
