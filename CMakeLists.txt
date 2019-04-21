@@ -17,6 +17,7 @@ add_library(${PROJECT_NAME}_lib SHARED
     src/fundamental_matrix.cpp
     src/essential_matrix.cpp
     src/line_RANSAC.cpp
+    src/triangulation.cpp
 )
 
 target_link_libraries(${PROJECT_NAME}_lib
